@@ -60,6 +60,12 @@ You can customize the shadow effect using the following parameters:
 - `offset_x`: Horizontal offset
 - `offset_y`: Vertical offset
 
+## Links
+
+- [Documentation](https://tkshadowfy.nakxa.site)
+- [PyPI Package](https://pypi.org/project/tkshadowfy)
+- [LinkedIn](https://www.linkedin.com/in/nakxa)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
